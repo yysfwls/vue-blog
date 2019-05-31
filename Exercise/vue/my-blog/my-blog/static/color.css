@@ -1,0 +1,72 @@
+.themea ul {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+}
+.themea li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.themea a {
+  color: white;
+  text-decoration: none;
+  padding: 15px 35px;
+  border-radius: 5px;
+}
+.themea nav {
+  background: #494166;
+  padding: 35px 0;
+  margin-bottom: 45px;
+}
+.themea .router-link-active {
+  background: #ffffff;
+  color: #494166;
+}
+.themeb ul {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+}
+.themeb li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.themeb a {
+  color: white;
+  text-decoration: none;
+  padding: 15px 35px;
+  border-radius: 5px;
+}
+.themeb nav {
+  background: #177cb0;
+  padding: 35px 0;
+  margin-bottom: 45px;
+}
+.themeb .router-link-active {
+  background: #ffffff;
+  color: #177cb0;
+}
+.themec ul {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+}
+.themec li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.themec a {
+  color: white;
+  text-decoration: none;
+  padding: 15px 35px;
+  border-radius: 5px;
+}
+.themec nav {
+  background: #efdeb0;
+  padding: 35px 0;
+  margin-bottom: 45px;
+}
+.themec .router-link-active {
+  background: #ffffff;
+  color: #efdeb0;
+}
